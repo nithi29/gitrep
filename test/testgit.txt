@@ -11,5 +11,4 @@ change 2
  to check bt
 
 change 3 
-not to get commited .. unstage
 
