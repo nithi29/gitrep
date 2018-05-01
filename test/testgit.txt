@@ -1,0 +1,6 @@
+This a new txt file
+created to chk git 
+------
+source
+------
+
