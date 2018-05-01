@@ -8,6 +8,4 @@ change 1
  im adding this to do change in tht file
 
 change 2 
- to check backtracking
-
-
+ to check bt
